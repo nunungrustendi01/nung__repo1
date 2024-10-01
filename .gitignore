@@ -3,8 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-fold2/
-!fold2/fold21/**
+fold2/*
+!fold2/fold21/
 
 # C extensions
 *.so
